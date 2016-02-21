@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1D278945E4C7205D3C41093FEDDB4AF754F659F1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1D278945E4C7205D3C41093FEDDB4AF754F659F1" : 0,
+    "EE54D2E781F1302A4DE5CE845403098A07A0388A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F820A4B9-0DD3-400C-AA6B-5F58E2583B58",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1D278945E4C7205D3C41093FEDDB4AF754F659F1" : "AppSource\/",
+    "EE54D2E781F1302A4DE5CE845403098A07A0388A" : "AppSource\/ldid\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AppSource",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AppSource.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bahusvel\/AppSource-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D278945E4C7205D3C41093FEDDB4AF754F659F1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/git.saurik.com\/ldid.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE54D2E781F1302A4DE5CE845403098A07A0388A"
+    }
+  ]
+}
